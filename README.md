@@ -15,3 +15,5 @@ Table of Contents
 
 # companies that uses go
 - [Docker](https://www.docker.com/career-openings/)
+- [CockroachDB](https://www.cockroachlabs.com/careers/open-positions/)
+- 
