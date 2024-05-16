@@ -5,6 +5,10 @@ Table of Contents
 - [cloud](#cloud)
 - [bloackchain](#bloackchain)
 
+# concurrency
+
+- [concurrent programming](https://youtube.com/playlist?list=PLlsmxlJgn1HJDgOjsG3DbdTx0kmUhCWuy&si=36mygcSP83tfCBOq) [video]
+
 ## backend
 
 ## cloud
