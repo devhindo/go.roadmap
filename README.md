@@ -7,7 +7,7 @@ Table of Contents
 
 # concurrency
 
-- [concurrent programming](https://youtube.com/playlist?list=PLlsmxlJgn1HJDgOjsG3DbdTx0kmUhCWuy&si=36mygcSP83tfCBOq) [video]
+- [What is a Thread? | Threads, Process, Program, Parallelism and Scheduler Explained](https://youtu.be/hN2Yrf4tqTY?si=2Jc3zKQe4lBIVjK6) [video]
 
 ## backend
 
